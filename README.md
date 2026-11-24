@@ -1,3 +1,3 @@
-# HMR family site template
+# HMR experiment site template
 
-Every HMR family placeholder site is a copy of this repository. The page reads sites.json and shows the entry for its own domain. To add a site, add a line to sites.json, create a repo from this template named after the domain, and set the custom domain in Pages.
+Every HMR experiment site is a copy of this repository. The page is a shell: its text, style and bottom dock load from https://hmrfamily.life/x/, where sites.json holds one entry per domain. To change all experiment sites at once, edit the files in hmrfamily.life/x/.
